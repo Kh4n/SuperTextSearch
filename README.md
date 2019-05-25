@@ -6,3 +6,7 @@ Useful for those annoying quizzes. Paste a pdf or any text and import it. Input 
 Requires:
 - Lunr.js
 - Natural.js
+
+TODO:
+- Synonyms
+- Adaptive offset
