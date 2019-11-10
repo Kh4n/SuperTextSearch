@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lunr": "^2.3.6",
+    "lunr": "^2.3.8",
     "natural": "^0.6.3"
   }
 }
