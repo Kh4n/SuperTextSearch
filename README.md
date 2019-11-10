@@ -10,3 +10,5 @@ Requires:
 TODO:
 - Synonyms
 - Adaptive offset
+
+Use it online here: https://kh4n.github.io/SuperTextSearch.html
